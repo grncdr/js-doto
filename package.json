@@ -1,0 +1,22 @@
+{
+  "name": "doto",
+  "version": "0.0.0",
+  "description": "Clojure's `doto` for javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/grncdr/js-doto.git"
+  },
+  "keywords": [
+    "doto",
+    "threading"
+  ],
+  "author": "Stephen Sugden <me@stephensugden.com>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/grncdr/js-doto/issues"
+  }
+}
