@@ -1,6 +1,6 @@
 {
   "name": "doto",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Clojure's `doto` for javascript",
   "main": "index.js",
   "scripts": {
