@@ -6,7 +6,7 @@ A flow-control/threading HoF. The name was stolen from Clojure.
 
 ### module.exports = function doto (target, steps, [callback])
 
-Apply each function in `steps` to `target` in order. For example, this will 
+Apply each function in `steps` to `target` in order. For example:
 
 ```javascript
 var assert = require('assert')
